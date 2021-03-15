@@ -1,0 +1,48 @@
+.title {
+  position: sticky;
+  top: 0;
+  text-align: center;
+  text-decoration:underline;
+}
+
+.tree {
+  float: left;
+  margin: 5px;
+  padding: 10px
+}
+
+.beside-image {
+  margin: 5px;
+  margin-top: 80px;
+  padding: 10px;
+  font-size:200%;
+}
+
+.tall {
+  height:2000px;
+  width: 500px;
+  padding:15px;
+  margin-top: 50px;
+}
+
+.heading {
+  font-size: 250%;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.columns {
+  width: 20%;
+  float: left;
+  border-style: solid;
+  border: 15px, goldenrod;
+  margin-left: 100px;
+  padding: 20px;
+}
+
+.footer {
+  background-color: grey;
+  text-align: center;
+  padding: 10px;
+  margin-top: 40%;
+}
